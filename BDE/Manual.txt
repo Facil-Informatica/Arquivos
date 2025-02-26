@@ -1,0 +1,4 @@
+Requerimentos e notas:
+Não instalar o BDE fácil se já houver intalado Delphi, pois o mesmo já traz o BDE. Instale o BDE fácil somente em máquinas que irão rodar seu software.
+
+Roda em Windows 95, 98, NT, 2000, ME, XP
